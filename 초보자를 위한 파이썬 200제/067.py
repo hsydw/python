@@ -1,0 +1,6 @@
+a = abs(-4)
+b = abs(-6.34)
+c = abs(3+4j)
+print(a)
+print(b)
+print(c)

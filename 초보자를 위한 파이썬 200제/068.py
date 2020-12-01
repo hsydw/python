@@ -1,0 +1,8 @@
+a = round(1534)
+b = round(12.345)
+c = round(12.345, 2)
+d = round(1534, -3)
+print(a)
+print(b)
+print(c)
+print(d)

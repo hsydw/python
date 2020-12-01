@@ -1,0 +1,6 @@
+a1 = input('숫자1 ')
+b1 = input('숫자2 ')
+a2 = int(a1)
+b2 = int(b1)
+ret1, ret2 = divmod(a2,b2)
+print('%d나누기%d는 몫이 %d, 나머지가 %d이다.' %(a2,b2,ret1,ret2))

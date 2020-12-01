@@ -1,0 +1,5 @@
+str1 = input('문자열을 입력하세요 : ')
+upp = str1.upper()
+low = str1.lower()
+print(upp)
+print(low)

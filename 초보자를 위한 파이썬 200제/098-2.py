@@ -1,0 +1,5 @@
+str1 = input('정렬할 문자열을 입력하세요 : ')
+sor1 = sorted(str1, reverse=True)
+print(sor1)
+sostr1 = ''.join(sor1)
+print(sostr1)
